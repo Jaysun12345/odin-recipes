@@ -4,3 +4,8 @@ div {
     color: white;
     background-color: black;
    }
+
+img {
+    height: auto;
+    width: 300px;
+}
