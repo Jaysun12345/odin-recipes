@@ -1,11 +1,24 @@
 /* styles.css */
 
+* {
+    font-weight:600
+}
+
 div {
     color: white;
     background-color: black;
    }
 
+#title {
+    font-size: 50px;
+}
+
 img {
     height: auto;
     width: 300px;
 }
+
+.Subheading {
+    color: red;
+}
+
